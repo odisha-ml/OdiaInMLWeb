@@ -60,13 +60,13 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 style="text-align:center"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p style="font-size: 16pt;">{{ site.description | default: site.github.project_tagline }}</p>
+        <p style="font-size: 16pt;text-align:center;">{{ site.description | default: site.github.project_tagline }}</p>
         <p style="text-align:center;">
             <a target=_blank href="https://twitter.com/odias_in_ml" class="fa fa-twitter"></a>
             <a target=_blank href="https://www.linkedin.com/groups/8973063/" class="fa fa-linkedin"></a>
@@ -98,7 +98,7 @@
         {% if site.github.is_project_page %}
         <p>This website is maintained by <a target=_blank href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p style="text-align:center;"><script type="text/javascript" src="//counter.websiteout.net/js/17/0/0/0"></script> have visited the site.</p>
+        <p style="text-align:center;">Visits: <script type="text/javascript" src="//counter.websiteout.net/js/17/0/0/0"></script></p>
         <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
