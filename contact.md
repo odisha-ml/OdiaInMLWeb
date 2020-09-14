@@ -1,9 +1,9 @@
-| **<span style="font-size: 16pt;">[Home](index)</span>**| **<span style="font-size: 16pt;">[About Us](about)</span>** | **<span style="font-size: 16pt;">[Initiatives](initiatives)</span>** | **<span style="font-size: 16pt;">[Blog](blogs)</span>** | **<span style="font-size: 16pt;">[Contact Us](contact)</span>** |
+| **<span style="font-size: 16pt;">[Home](index)</span>**| **<span style="font-size: 16pt;">[About Us](about)</span>** | **<span style="font-size: 16pt;">[Initiatives](initiatives)</span>** | **<span style="font-size: 16pt;">[Blog](blogs)</span>** | **<span style="font-size: 16pt;">[Contact](contact)</span>** |
 
 
 
 ---
-# Contact Us
+# Contact
 
 <span style="color:gray"><span style="font-size: 14pt;">For activities/community related queries email [odiaml@outlook.com](odiaml@outlook.com)</span></span>
 
