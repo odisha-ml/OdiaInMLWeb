@@ -1,3 +1,9 @@
+
+| **<span style="font-size: 16pt;">[Home](index)</span>**| **<span style="font-size: 16pt;">[About Us](about)</span>** | **<span style="font-size: 16pt;">[Initiatives](initiatives)</span>** | **<span style="font-size: 16pt;">[Blog](blogs)</span>** | **<span style="font-size: 16pt;">[Contact Us](contact)</span>** |
+
+
+
+---
 # Mission
 
 <span style="color:gray"><span style="font-size: 14pt;">Our mission is to enhance the experience of Odia and Odias globally  in the domain of artificial intelligence mainly through</span></span>
