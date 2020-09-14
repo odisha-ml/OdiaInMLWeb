@@ -67,7 +67,12 @@
         {% endif %}
 
         <p style="font-size: 16pt;">{{ site.description | default: site.github.project_tagline }}</p>
-
+        <p style="text-align:center;">
+            <a target=_blank href="https://twitter.com/odias_in_ml" class="fa fa-twitter"></a>
+            <a target=_blank href="https://www.linkedin.com/groups/8973063/" class="fa fa-linkedin"></a>
+            <a target=_blank href="https://www.facebook.com/groups/Odias.in.ML" class="fa fa-facebook"></a>
+            <a target=_blank href="https://www.youtube.com/channel/UCaoGfM_49C8kcKqyTh-fr6Q/" class="fa fa-youtube"></a>
+          </p>
         {% if site.github.is_project_page %}
         <!--<p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>--> 
         {% endif %}
@@ -83,12 +88,7 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-      </header><p style="text-align:center;">
-      <a target=_blank href="https://twitter.com/odias_in_ml" class="fa fa-twitter"></a>
-      <a target=_blank href="https://www.linkedin.com/groups/8973063/" class="fa fa-linkedin"></a>
-      <a target=_blank href="https://www.facebook.com/groups/Odias.in.ML" class="fa fa-facebook"></a>
-      <a target=_blank href="https://www.youtube.com/channel/UCaoGfM_49C8kcKqyTh-fr6Q/" class="fa fa-youtube"></a>
-    </p>
+      </header>
       <section>
 
       {{ content }}
