@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
-avatar: "assets/img/logo.png"
-round-avatar: true
+logo: "assets/img/logo.png"
 title: "Odias in Machine Learning"
 description: "The machine learning global community of Odias"
 show_downloads: false

@@ -1,4 +1,3 @@
-![image](assets/img/logo.png){:height="75%" width="75%" align="center"}
 
 | **<span style="font-size: 16pt;">[About Us](about)</span>** | **<span style="font-size: 16pt;">[Initiatives](initiatives)</span>** | **<span style="font-size: 16pt;">[Blog](blogs)</span>** | **<span style="font-size: 16pt;">[Contact Us](contact)</span>** |
 
