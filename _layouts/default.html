@@ -10,6 +10,52 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+</style>
   </head>
   <body>
     <div class="wrapper">
@@ -20,10 +66,10 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p style="font-size: 16pt;">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        <!--<p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>--> 
         {% endif %}
 
         {% if site.github.is_user_page %}
@@ -37,7 +83,12 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-      </header>
+      </header><p style="text-align:center;">
+      <a target=_blank href="https://twitter.com/odias_in_ml" class="fa fa-twitter"></a>
+      <a target=_blank href="https://www.linkedin.com/groups/8973063/" class="fa fa-linkedin"></a>
+      <a target=_blank href="https://www.facebook.com/groups/Odias.in.ML" class="fa fa-facebook"></a>
+      <a target=_blank href="https://www.youtube.com/channel/UCaoGfM_49C8kcKqyTh-fr6Q/" class="fa fa-youtube"></a>
+    </p>
       <section>
 
       {{ content }}
@@ -45,9 +96,9 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p>This website is maintained by <a target=_blank href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><script type="text/javascript" src="//counter.websiteout.net/js/17/0/0/0"></script> have visited the site.</p>
+        <p style="text-align:center;"><script type="text/javascript" src="//counter.websiteout.net/js/17/0/0/0"></script> have visited the site.</p>
         <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
