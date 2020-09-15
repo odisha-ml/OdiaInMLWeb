@@ -29,4 +29,4 @@
 <span style="color:gray"><span style="font-size: 14pt;">(Anjan will give)</span></span>
 
 # Registration link
-<span style="color:gray"><span style="font-size: 14pt;">[Click here](https://forms.gle/yH2NmDTaxB9Fjekn9)</span></span>
+<a style="font-size: 14pt;" href="https://forms.gle/yH2NmDTaxB9Fjekn9" target="_blank">Click here!</a>
