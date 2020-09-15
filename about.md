@@ -4,15 +4,22 @@
 
 
 ---
+# Vision 
+
+<span style="color:gray"><span style="font-size: 14pt;">A prosperous and sustainable Odisha leveraging the power of  machine learning for continuous improvement.</span></span> 
+
 # Mission
 
-<span style="color:gray"><span style="font-size: 14pt;">Our mission is to enhance the experience of Odia and Odias globally  in the domain of artificial intelligence mainly through</span></span>
-* <span style="color:gray"><span style="font-size: 14pt;">Increasing the number of Odias participating in the domain</span></span>
-* <span style="color:gray"><span style="font-size: 14pt;">Providing guidance for careers through extensive network interactions</span></span>
-* <span style="color:gray"><span style="font-size: 14pt;">Increasing the impact of AI towards development of Odia Language, Culture and State.</span></span>
-* <span style="color:gray"><span style="font-size: 14pt;">Ensure transparency and accuracy of odia culture and voice in data representations</span></span>
+<span style="color:gray"><span style="font-size: 14pt;">Odias in ML will help leverage the power of artificial intelligence and machine learning for the <b>overall development of Odisha and Odia language</b> through a platform for <b>collaboration among Odia technologists, academicians, executives, policymakers, and the broader community</b>--working strategically with technology and thought leaders in the space. </span></span> 
 
-
+# How
+<span style="color:gray"><span style="font-size: 14pt;">The aim is to achieve our mission by -</span></span> 
+* <span style="color:gray"><span style="font-size: 14pt;">celebrating the achievement of Odias in the field</span></span> 
+* <span style="color:gray"><span style="font-size: 14pt;">helping enhance skills levels in this area</span></span> 
+* <span style="color:gray"><span style="font-size: 14pt;">helping create entrepreneurial and career opportunities</span></span> 
+*<span style="color:gray"><span style="font-size: 14pt;">catalyzing rapid adoption of AI/ML technologies in Odisha by actively engaging with the policymakers</span></span> 
+*<span style="color:gray"><span style="font-size: 14pt;">creating a repository of knowledge in the area</span></span> 
+*<span style="color:gray"><span style="font-size: 14pt;">getting the best of technology leaders to work with us in the pursuit of our objective </span></span> 
 
 # People
 <span style="color:gray"><span style="font-size: 14pt;">(TODO: Subhadarshi)</span></span>
