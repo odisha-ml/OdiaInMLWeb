@@ -93,13 +93,16 @@
 
       {{ content }}
 
-      </section>
-      <footer>
-        <div style="width:100%; text-align: center;">
+        <div style="width:100%;text-align: center;">
           <h4>Support The Society</h4>
           <div id="paypal-button-container"></div>
         </div>
-        
+
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This website is maintained by <a target=_blank href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
         <p style="text-align:center;">Unique Visitors: <script type = "text/javascript" src = "//counter.websiteout.net/js/5/0/100/1"> </script></p>
         <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
