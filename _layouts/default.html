@@ -61,7 +61,7 @@
     <div class="wrapper">
       <header>
         <h1 style="text-align:center"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -74,11 +74,11 @@
             <a target=_blank href="https://www.youtube.com/channel/UCaoGfM_49C8kcKqyTh-fr6Q/" class="fa fa-youtube"></a>
           </p>
         {% if site.github.is_project_page %}
-        <!--<p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>--> 
+        <!--<p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>-->
         {% endif %}
 
         {% if site.github.is_user_page %}
-       <!--<p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> --> 
+       <!--<p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> -->
         {% endif %}
 
         {% if site.show_downloads %}
@@ -95,6 +95,10 @@
 
       </section>
       <footer>
+        <div style="width:10%">
+          <h4>Help Thy Society</h4>
+          <div id="paypal-button-container"></div>
+        </div>
         {% if site.github.is_project_page %}
         <p>This website is maintained by <a target=_blank href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
@@ -103,6 +107,35 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="https://www.paypal.com/sdk/js?client-id=AWnc_Ft9NUfQc30EHAEtR6yeSaB3IA0MRTxY8ilzaU46iv0jJtdsv9aEOF4dpp0y__MIP210dAbO7Tg6"></script>
+    <script>
+      // Render the PayPal button into #paypal-button-container
+      paypal.Buttons({
+        style: {
+          layout: 'horizontal'
+        },
+        // Set up the transaction
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{
+              amount: {
+                value: '0.01'
+              }
+            }]
+          });
+        },
+
+        // Finalize the transaction
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(details) {
+            // Show a success message to the buyer
+            alert('Transaction completed by ' + details.payer.name.given_name + '!');
+          });
+        }
+
+
+      }).render('#paypal-button-container');
+    </script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
