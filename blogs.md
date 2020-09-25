@@ -3,6 +3,7 @@
 
 
 ---
-# Blogs
 
-<span style="color:gray"><span style="font-size: 14pt;">(One post to be provided by Shyamanuja)</span></span>
+**<span style="font-size: 24pt;">Blogs</span>**
+
+<span style="color:gray"><span style="font-size: 14pt;">Coming soon..</span></span>
