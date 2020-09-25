@@ -4,15 +4,15 @@
 
 
 ---
-**<span style="font-size: 24pt;">Vision</span>**
+**<span style="font-size: 20pt;">Vision</span>**
 
 <span style="color:gray"><span style="font-size: 14pt;">A prosperous and sustainable Odisha leveraging the power of  machine learning for continuous improvement.</span></span> 
 
-**<span style="font-size: 24pt;">Mission</span>**
+**<span style="font-size: 20pt;">Mission</span>**
 
 <span style="color:gray"><span style="font-size: 14pt;">Odias in ML will help leverage the power of artificial intelligence and machine learning for the <b>overall development of Odisha and Odia language</b> through a platform for <b>collaboration among Odia technologists, academicians, executives, policymakers, and the broader community</b>--working strategically with technology and thought leaders in the space. </span></span> 
 
-**<span style="font-size: 24pt;">Activities</span>**
+**<span style="font-size: 20pt;">Activities</span>**
 
 <span style="color:gray"><span style="font-size: 14pt;">We undertake the following activities to achieve our mission by</span></span> 
 * <span style="color:gray"><span style="font-size: 14pt;">celebrating the achievement of Odias in the field</span></span> 
@@ -22,5 +22,5 @@
 * <span style="color:gray"><span style="font-size: 14pt;">creating a repository of knowledge in the area</span></span> 
 * <span style="color:gray"><span style="font-size: 14pt;">getting the best of technology leaders to work with us in the pursuit of our objective </span></span> 
 
-**<span style="font-size: 24pt;">People</span>**
+**<span style="font-size: 20pt;">People</span>**
 

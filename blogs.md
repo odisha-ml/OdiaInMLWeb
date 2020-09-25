@@ -4,6 +4,6 @@
 
 ---
 
-**<span style="font-size: 24pt;">Blogs</span>**
+**<span style="font-size: 20pt;">Blogs</span>**
 
 <span style="color:gray"><span style="font-size: 14pt;">Coming soon..</span></span>

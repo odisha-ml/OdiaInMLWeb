@@ -37,15 +37,15 @@
  
 **<span style="font-size: 20pt;">Speakers</span>**
 
-![image](assets/img/speakers/Speakers.png){:height="75%" width="75%" align="center"}
+![image](assets/img/speakers/Speakers.png){:height="100%" width="100%" align="center"}
 
-![image](assets/img/speakers/Kuku_Das.png){:height="75%" width="75%" align="center"}
+![image](assets/img/speakers/Kuku_Das.png){:height="100%" width="100%" align="center"}
 
-![image](assets/img/speakers/Manoj_Mishra.png){:height="75%" width="75%" align="center"}
+![image](assets/img/speakers/Manoj_Mishra.png){:height="100%" width="100%" align="center"}
 
-![image](assets/img/speakers/Prasant_Mohapatra.png){:height="75%" width="75%" align="center"}
+![image](assets/img/speakers/Prasant_Mohapatra.png){:height="100%" width="100%" align="center"}
 
-![image](assets/img/speakers/Vivekanand_Pani.png){:height="75%" width="75%" align="center"}
+![image](assets/img/speakers/Vivekanand_Pani.png){:height="100%" width="100%" align="center"}
 
 
 **<span style="font-size: 20pt;">Registration link</span>**
