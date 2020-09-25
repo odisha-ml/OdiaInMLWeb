@@ -3,6 +3,6 @@
 
 
 ---
-**<span style="font-size: 24pt;">Contact</span>**
+**<span style="font-size: 20pt;">Contact</span>**
 
 <span style="color:gray"><span style="font-size: 14pt;">For activities / community related queries / media queries email [odiaml@outlook.com](odiaml@outlook.com)</span></span>
