@@ -12,6 +12,7 @@
 
 <a style="font-size: 14pt;" href="https://forms.gle/YAnBm34V41Q7vv4D9" target="_blank">Click here!</a>
 
+[![image](assets/img/register_here.png){:height="10%" width="10%" align="center"}](https://forms.gle/YAnBm34V41Q7vv4D9)
 
 <span style="color:gray"><span style="font-size: 14pt;">Odias in ML Conference 2020 is the first international congregation of Odias techies in AI/ML, academicians, policymakers, linguists, business executives, investors, entrepreneurs and those working towards positively intervening in people’s lives through AI/ML.</span></span>
 
