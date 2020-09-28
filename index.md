@@ -11,7 +11,7 @@
 ![image](assets/img/registration.jpeg){:height="75%" width="75%" align="center"}
 
 
-<div align="center">[![image](assets/img/register_here.png){:height="30%" width="30%" align="center"}](https://forms.gle/YAnBm34V41Q7vv4D9)</div>
+[![image](assets/img/register_here.png){:height="30%" width="30%" align="center"}](https://forms.gle/YAnBm34V41Q7vv4D9)
 
 
 <span style="color:gray"><span style="font-size: 14pt;">Odias in ML Conference 2020 is the first international congregation of Odias techies in AI/ML, academicians, policymakers, linguists, business executives, investors, entrepreneurs and those working towards positively intervening in people’s lives through AI/ML.</span></span>
@@ -51,6 +51,6 @@
 ![image](assets/img/speakers/Vivekanand_Pani.png){:height="100%" width="100%" align="center"}
 
 
-<div align="center">**<span style="font-size: 20pt;">Registration link</span>**</div>
+**<span style="font-size: 20pt;">Registration link</span>**
 
 [![image](assets/img/register_here.png){:height="30%" width="30%" align="center"}](https://forms.gle/YAnBm34V41Q7vv4D9)
