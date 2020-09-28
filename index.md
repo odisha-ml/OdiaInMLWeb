@@ -6,6 +6,7 @@
 
 ---
 
+<center>
 **<span style="font-size: 24pt;">Odias in Machine Learning Conference 2020</span>**
 
 ![image](assets/img/registration.jpeg){:height="75%" width="75%" align="center"}
@@ -54,3 +55,4 @@
 **<span style="font-size: 20pt;">Registration link</span>**
 
 [![image](assets/img/register_here.png){:height="30%" width="30%" align="center"}](https://forms.gle/YAnBm34V41Q7vv4D9)
+</center>
