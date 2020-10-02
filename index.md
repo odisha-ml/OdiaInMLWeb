@@ -67,7 +67,7 @@
 <br/>
 **<span style="font-size: 20pt;">Agenda</span>**
 <center>
-<span style="color:gray"><span style="font-size: 14pt;">
+
 
 | **SESSION**                	| **BHUBANESWAR** 	| **PARIS** 	| **NEW YORK** 	| **SAN FRANSISCO** 	|
 |:------------------------	|:-------------	:|:-------:	|:-----------:	|:---------------:	|
@@ -78,7 +78,7 @@
 | BUSINESS OPPORTUNITIES 	|             	|       	|           	|               	|
 | ENTREPRENEURSHIP/      	| 22:00       	| 18:30 	| 12:30     	| 09:30         	|
 | BUSINESS OPPORTUNITIES 	|             	|       	|           	|               	|
-</span></span>
+
 </center>
  
 **<span style="font-size: 20pt;">Speakers</span>**
