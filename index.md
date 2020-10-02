@@ -7,12 +7,12 @@
 ---
 
 **<span style="font-size: 24pt;">Odias in Machine Learning Conference 2020</span>**
-<center>
+
 ![image](assets/img/registration.jpeg){:height="75%" width="75%" align="center"}
 
 
 [![image](assets/img/register_here.png){:height="30%" width="30%" align="center"}](https://forms.gle/YAnBm34V41Q7vv4D9)
-</center>
+
 
 <center>
 <span style="color:gray"><span style="font-size: 14pt;">Odias in ML Conference 2020 is the first international congregation of Odias techies in AI/ML, academicians, policymakers, linguists, business executives, investors, entrepreneurs and those working towards positively intervening in people’s lives through AI/ML.</span></span>
