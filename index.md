@@ -65,12 +65,13 @@
 </center>
  
 <br/>
+
 **<span style="font-size: 20pt;">Agenda</span>**
-<center>
 
 
-| **SESSION**                	| **BHUBANESWAR** 	| **PARIS** 	| **NEW YORK** 	| **SAN FRANSISCO** 	|
-|:------------------------	|:-------------	:|:-------:	|:-----------:	|:---------------:	|
+
+| **SESSION** | **BHUBANESWAR** | **PARIS** | **NEW YORK** | **SAN FRANSISCO** |
+|:---|:---:|:---:|:---:|:---:|
 | WELCOME                	| 17:15       	| 13:45 	| 07:45     	| 04:45         	|
 | AI FOR ODISHA          	| 17:30       	| 14:00 	| 08:00     	| 05:00         	|
 | AI FOR ODIA LANGUAGE   	| 19:00       	| 15:30 	| 09:30     	| 06:30         	|
@@ -79,7 +80,7 @@
 | ENTREPRENEURSHIP/      	| 22:00       	| 18:30 	| 12:30     	| 09:30         	|
 | BUSINESS OPPORTUNITIES 	|             	|       	|           	|               	|
 
-</center>
+
  
 **<span style="font-size: 20pt;">Speakers</span>**
 
