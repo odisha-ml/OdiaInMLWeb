@@ -75,10 +75,8 @@
 | WELCOME                	| 17:15       	| 13:45 	| 07:45     	| 04:45         	|
 | AI FOR ODISHA          	| 17:30       	| 14:00 	| 08:00     	| 05:00         	|
 | AI FOR ODIA LANGUAGE   	| 19:00       	| 15:30 	| 09:30     	| 06:30         	|
-| ENTREPRENEURSHIP/      	| 20:30       	| 17:00 	| 11:00     	| 08:00         	|
-| BUSINESS OPPORTUNITIES 	|             	|       	|           	|               	|
-| ENTREPRENEURSHIP/      	| 22:00       	| 18:30 	| 12:30     	| 09:30         	|
-| BUSINESS OPPORTUNITIES 	|             	|       	|           	|               	|
+| RESEARCH & CAREER OPPORTUNITIES    	| 20:30       	| 17:00 	| 11:00     	| 08:00         	|
+| ENTREPRENEURSHIP/BUSINESS OPPORTUNITIES      	| 22:00       	| 18:30 	| 12:30     	| 09:30         	|
 
 
  
