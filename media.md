@@ -8,6 +8,8 @@
 **<span style="font-size: 20pt;">Media Features</span>**
 
 * October 2020
+    * [News Patrolling](http://www.newspatrolling.com/odias-in-ml-global-conference-2020-discussed-how-to-leverage-aiml-for-overall-socio-economic-development-of-odisha/)
+    * [PNI News](https://www.pninews.com/odisha-can-chart-out-a-data-driven-strategy-to-propel-the-next-phase-of-its-growth/)
     * [Silicon Village](https://blogspot.siliconvillage.net/2020/10/odias-in-ml-global-conference-2020.html)
     * [Smart State India](https://smartstateindia.com/odias-in-ml-global-conference-2020-discussed-how-to-leverage-ai-ml-for-overall-socio-economic-development-of-odisha/)
     * [Enterprise IT World](https://www.enterpriseitworld.com/odias-in-ml-global-conference-2020-discussed-how-to-leverage-ai-ml-for-overall-socio-economic-development-of-odisha/)
@@ -16,8 +18,6 @@
     * [Odisha Bytes](https://odishabytes.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-rowth/)
     * [Var India](https://www.varindia.com/news/odias-globally-deliberate-on-leveraging-aiml-for-odishas-growth)
     * [Orissa Diary](https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/)
-
-* August 2020
     * [Times of India](https://timesofindia.indiatimes.com/home/education/news/odias-in-machine-learning-global-virtual-conference-to-be-held-today/articleshow/78472054.cms)
     * [Daily Hunt](https://m.dailyhunt.in/news/india/english/bhubaneswar+buzz-epaper-bunesbuz/odias+ml+a+global+virtual+conference+of+odias+in+machine+learning+don+t+miss-newsid-n219017568)
     * [Var India](https://www.varindia.com/news/global-virtual-conference-odias-in-ml-to-be-held-on-october-4)
