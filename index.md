@@ -9,12 +9,12 @@
 ---
 
 **<span style="font-size: 24pt;">Odias in Machine Learning Conference 2020</span>**
-<center>
+
 ![image](assets/img/registration.jpeg){:height="75%" width="75%" align="center"}
 
 
 [![image](assets/img/register_here.png){:height="30%" width="30%" align="center"}](https://forms.gle/YAnBm34V41Q7vv4D9)
-</center>
+
 
 <center>
 <span style="color:gray"><span style="font-size: 14pt;">Odias in ML Conference 2020 is the first international congregation of Odias techies in AI/ML, academicians, policymakers, linguists, business executives, investors, entrepreneurs and those working towards positively intervening in people’s lives through AI/ML.</span></span>
@@ -67,21 +67,20 @@
 </center>
  
 <br/>
+
 **<span style="font-size: 20pt;">Agenda</span>**
-<center>
 
 
-| **SESSION**                	| **BHUBANESWAR** 	| **PARIS** 	| **NEW YORK** 	| **SAN FRANSISCO** 	|
-|:------------------------	|:-------------	:|:-------:	|:-----------:	|:---------------:	|
+
+| **SESSION** | **BHUBANESWAR** | **PARIS** | **NEW YORK** | **SAN FRANSISCO** |
+|:---|:---:|:---:|:---:|:---:|
 | WELCOME                	| 17:15       	| 13:45 	| 07:45     	| 04:45         	|
 | AI FOR ODISHA          	| 17:30       	| 14:00 	| 08:00     	| 05:00         	|
 | AI FOR ODIA LANGUAGE   	| 19:00       	| 15:30 	| 09:30     	| 06:30         	|
-| ENTREPRENEURSHIP/      	| 20:30       	| 17:00 	| 11:00     	| 08:00         	|
-| BUSINESS OPPORTUNITIES 	|             	|       	|           	|               	|
-| ENTREPRENEURSHIP/      	| 22:00       	| 18:30 	| 12:30     	| 09:30         	|
-| BUSINESS OPPORTUNITIES 	|             	|       	|           	|               	|
+| RESEARCH & CAREER OPPORTUNITIES    	| 20:30       	| 17:00 	| 11:00     	| 08:00         	|
+| ENTREPRENEURSHIP/BUSINESS OPPORTUNITIES      	| 22:00       	| 18:30 	| 12:30     	| 09:30         	|
 
-</center>
+
  
 **<span style="font-size: 20pt;">Speakers</span>**
 
