@@ -5,7 +5,5 @@
 
 
 ---
+**<span style="font-size: 20pt;">Media Features</span>**
 
-**<span style="font-size: 20pt;">Blogs</span>**
-
-<span style="color:gray"><span style="font-size: 14pt;">Coming soon..</span></span>
