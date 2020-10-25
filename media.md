@@ -17,3 +17,12 @@
     * [Var India](https://www.varindia.com/news/odias-globally-deliberate-on-leveraging-aiml-for-odishas-growth)
     * [Orissa Diary](https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/)
 
+* August 2020
+    * [Times of India](https://timesofindia.indiatimes.com/home/education/news/odias-in-machine-learning-global-virtual-conference-to-be-held-today/articleshow/78472054.cms)
+    * [Daily Hunt](https://m.dailyhunt.in/news/india/english/bhubaneswar+buzz-epaper-bunesbuz/odias+ml+a+global+virtual+conference+of+odias+in+machine+learning+don+t+miss-newsid-n219017568)
+    * [Var India](https://www.varindia.com/news/global-virtual-conference-odias-in-ml-to-be-held-on-october-4)
+    * [Local Wire](https://localwire.me/global-virtual-conference-organised-for-odias-in-machine-learning-and-artificial-intelligence/)
+    * [Orissa Diary](https://orissadiary.com/global-virtual-conference-odias-in-ml-to-be-held-on-october-4/)
+    * [Brand Awareness](https://news.brandawareness.in/2020/10/04/odias-in-machine-learning-global-virtual-conference-to-be-held-today-times-of-india/)
+    * [SPO India](https://spoindia.org/global-virtual-conference-odias-in-ml-to-be-held-on-october-4/#:~:text=Odias%20in%20ML%20aims%20to,with%20technology%20and%20thought%20leaders)
+    * [News Reader Board](https://www.newsreaderboard.com/odias-in-machine-learning-global-virtual-conference-to-be-held-today/)
