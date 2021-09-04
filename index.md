@@ -2,7 +2,7 @@
 
 **<span style="color:blue"><span style="font-size: 10pt;">See also</span></span><span style="font-size: 10pt;">[ Odias in Machine Learning Conference 2020](conf2020)</span>**
 
-| **<span style="font-size: 16pt;">[Home](home)</span>**| **<span style="font-size: 16pt;">[About](about)</span>** | **<span style="font-size: 16pt;">[Initiatives](index)</span>** | **<span style="font-size: 16pt;">[Blog](blogs)</span>** | **<span style="font-size: 16pt;">[Contact](contact)</span>** | **<span style="font-size: 16pt;">[Media](media)</span>**|
+| **<span style="font-size: 16pt;">[Home](home)</span>**| **<span style="font-size: 16pt;">[About](about)</span>** | **<span style="font-size: 16pt;">[Initiatives](conf2020)</span>** | **<span style="font-size: 16pt;">[Blog](blogs)</span>** | **<span style="font-size: 16pt;">[Contact](contact)</span>** | **<span style="font-size: 16pt;">[Media](media)</span>**|
 
 
 
