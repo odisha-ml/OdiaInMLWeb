@@ -32,3 +32,4 @@
 - [Damodar Sahu](https://www.linkedin.com/in/damodarsahu/)
 - [Shyamanuja Das](https://www.linkedin.com/in/shyamanuja/)
 - [Subhadarshi Panda](https://www.linkedin.com/in/subhadarshi-panda-1ba5091a/)
+- [Pradeepta Mishra](https://www.linkedin.com/in/pradeepta/)
