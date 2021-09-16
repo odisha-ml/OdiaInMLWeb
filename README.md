@@ -1,6 +1,6 @@
 # OdiaInMLWeb
 
-The landing page of the [Odias in Machine Learning](http://www.odia.ml).
+The landing page of the [Odias in Machine Learning](https://www.odia.ml/).
 
 Alternative [Odias in Machine Learning](http://www.odisha.ml)
 
