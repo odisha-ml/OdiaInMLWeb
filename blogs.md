@@ -10,7 +10,7 @@
 
 **<span style="font-size: 20pt;">Blogs</span>**
 
-<span style="color:gray"><span style="font-size: 14pt;">Coming soon..</span></span>
+<span style="color:gray"><span style="font-size: 14pt;">Coming out soon..</span></span>
 
 **<span style="font-size: 20pt;">Upcoming AI Conferences</span>**
 
