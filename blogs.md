@@ -25,3 +25,7 @@
 * <span style="color:gray"><span style="font-size: 14pt;">[CVPR 2022](http://cvpr2022.thecvf.com/) June 21-24, 2022. New Orleans, Louisiana, USA.</span></span> 
 * <span style="color:gray"><span style="font-size: 14pt;">[LREC 2022](http://elra.info/en/lrec/lrec-2022/) June 20-25, 2022. Marseille, France.</span></span> 
 * <span style="color:gray"><span style="font-size: 14pt;">[NAACL 2022](https://2022.naacl.org/) July 10-15, 2022. Seattle, Washington, USA.</span></span> 
+
+**<span style="font-size: 20pt;">Useful Odia Related NLP Resources</span>**
+
+This is a gem of a place to find Odia related natural language processing resources. Check this out! http://www.mte2o.com.
