@@ -1,0 +1,8 @@
+/* custom CSS */
+@media only screen and (max-width: 450px) {
+  button#submitButton {
+    text-align: center !important;
+    margin-left: 0;
+    margin-bottom: 16px !important;
+  }
+}
