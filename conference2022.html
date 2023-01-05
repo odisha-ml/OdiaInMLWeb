@@ -594,28 +594,6 @@
     </div>
     </section>
 
-
-
-
-
-
-    <div class="mt-4" align="center">
-      <button
-        class="btn btn-dark btn-lg"
-        id="submitButton"
-        type="submit"
-        style="margin-bottom: 3rem"
-        onclick="location.href='#page-top'"
-      >
-        Back to Top
-      </button>
-    </div>
-
-
-
-
-
-
     <!-- Footer-->
     <footer class="footer text-center">
       <div class="container">
@@ -678,6 +656,29 @@
         <small>Copyright &copy; odisha.ml 2022</small>
       </div>
     </div>
+    <!--Scroll to the top button-->
+    <button id="goToTopButton" onclick="topFunction()" title="Go to top">Scroll to top</button>
+
+    <script>
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function () {
+        scrollFunction()
+      };
+
+      function scrollFunction() {
+        if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+          document.getElementById("goToTopButton").style.display = "block";
+        } else {
+          document.getElementById("goToTopButton").style.display = "none";
+        }
+      }
+
+      // When the user clicks on the button, scroll to the top of the document
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
+    </script>
     <!-- Bootstrap core JS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Core theme JS-->

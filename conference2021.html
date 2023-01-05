@@ -49,7 +49,7 @@
       </div>
       <h2 class="page-section-heading text-center text-uppercase">
         Odias in Machine <br>Learning Conference 2021
-		
+
       </h2>
       <div style="text-align: center;">
 		<br>
@@ -62,7 +62,7 @@
 			YouTube Recording
 		</button>
 	  </div>
-      
+
     </section>
     <!-- About Section-->
     <section class="page-section mb-0" id="about">
@@ -74,15 +74,15 @@
             <p class="lead">
             Odias in ML Conference 2021 is the second international
 			congregation of Odias techies in AI/ML, academicians, policymakers,
-			linguists, business executives, investors, entrepreneurs and those 
+			linguists, business executives, investors, entrepreneurs and those
 			working towards positively intervening in people’s lives through AI/ML.
             </p>
-            <p class="lead">The conference, divided into three sessions on the topics 
-			ecosystem, entrepreneurship, and skills to scale, will try to set the 
-			foundation for greater engagement in the future for specific action 
+            <p class="lead">The conference, divided into three sessions on the topics
+			ecosystem, entrepreneurship, and skills to scale, will try to set the
+			foundation for greater engagement in the future for specific action
 			points that will emerge from the deliberations.</p>
             </p>
-            
+
           </div>
           <!-- Icon Divider-->
             <div class="divider-custom">
@@ -115,7 +115,7 @@
 						<td >Speakers</td>
 						<td >Moderators</td>
 					</tr>
-					</thead>	
+					</thead>
 					<tbody>
 					<tr class="table-warning">
 						<td >Intro</td>
@@ -147,7 +147,7 @@
 						<td >14:05</td>
 						<td >5:05</td>
 						<td >8:05</td>
-						<td >Anjan Kumar Panda</td>						
+						<td >Anjan Kumar Panda</td>
 						<td ></td>
 					</tr>
 					<tr class="table-warning">
@@ -547,7 +547,7 @@
 						<td ></td>
 					</tr>
 					</tbody>
-				</table> 
+				</table>
 
         </div>
       </div>
@@ -629,6 +629,29 @@
         <small>Copyright &copy; odisha.ml 2022</small>
       </div>
     </div>
+	<!--Scroll to the top button-->
+	<button id="goToTopButton" onclick="topFunction()" title="Go to top">Scroll to top</button>
+
+	<script>
+		// When the user scrolls down 20px from the top of the document, show the button
+		window.onscroll = function () {
+			scrollFunction()
+		};
+
+		function scrollFunction() {
+			if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+				document.getElementById("goToTopButton").style.display = "block";
+			} else {
+				document.getElementById("goToTopButton").style.display = "none";
+			}
+		}
+
+		// When the user clicks on the button, scroll to the top of the document
+		function topFunction() {
+			document.body.scrollTop = 0;
+			document.documentElement.scrollTop = 0;
+		}
+	</script>
     <!-- Bootstrap core JS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Core theme JS-->

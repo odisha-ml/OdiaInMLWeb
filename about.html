@@ -155,7 +155,7 @@
           <div class="col-lg-6">
             <h4 class="text-uppercase mb-4">Reach out:</h4>
             <p class="lead mb-0">
-              For activities / community related queries / media queries email 
+              For activities / community related queries / media queries email
               <a href="mailto: odiaml@outlook.com"   target="_blank">odiaml@outlook.com</a>
               .
             </p>
@@ -172,6 +172,29 @@
         <small>Copyright &copy; odisha.ml 2022</small>
       </div>
     </div>
+     <!--Scroll to the top button-->
+     <button id="goToTopButton" onclick="topFunction()" title="Go to top">Scroll to top</button>
+
+     <script>
+       // When the user scrolls down 20px from the top of the document, show the button
+       window.onscroll = function () {
+         scrollFunction()
+       };
+
+       function scrollFunction() {
+         if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+           document.getElementById("goToTopButton").style.display = "block";
+         } else {
+           document.getElementById("goToTopButton").style.display = "none";
+         }
+       }
+
+       // When the user clicks on the button, scroll to the top of the document
+       function topFunction() {
+         document.body.scrollTop = 0;
+         document.documentElement.scrollTop = 0;
+       }
+     </script>
     <!-- Bootstrap core JS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Core theme JS-->
