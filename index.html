@@ -72,20 +72,23 @@
 <!-- Masthead-->
 <header class="masthead bg-primary text-white text-center">
 
-    <div class="btn-group-lg" style="text-align: center" width="100%">
-        <button class="btn btn-danger btn-lg" id="submitButton" onclick="location.href='./conference2023.html'"
-        type="button">Conference 2023
+    <div class="btn-group-lg d-flex flex-column flex-md-row align-items-center justify-content-center" style="text-align: center" width="100%">
+        <button class="btn btn-danger btn-lg mb-3 mb-md-0" id="submitButton" onclick="location.href='./conference2023.html'"
+                type="button">Conference 2023
         </button>
-        <button class="btn btn-danger btn-lg" id="submitButton" onclick="location.href='./conference2022.html'"
-                type="button">Conference 2022
-        </button>
-        <button class="btn btn-danger btn-lg" id="submitButton" onclick="location.href='./conference2021.html'"
-                type="button">Conference 2021
-        </button>
-        <button class="btn btn-danger btn-lg" id="submitButton"
-                onclick="location.href='https://www.youtube.com/watch?v=PF5DScCr5SI'"
-                type="button">Conference 2020
-        </button>
+        <div class="d-flex flex-row justify-content-between mt-3 mt-md-0" style="gap: 1rem;">
+            <div class="d-none d-md-block" style="width: 0.25rem;"></div> <!-- Reduced gap for desktop view -->
+            <button class="btn btn-secondary btn-lg" id="submitButton" onclick="location.href='./conference2022.html'"
+                    type="button">Conference 2022
+            </button>
+            <button class="btn btn-secondary btn-lg" id="submitButton" onclick="location.href='./conference2021.html'"
+                    type="button">Conference 2021
+            </button>
+            <button class="btn btn-secondary btn-lg pr-2" id="submitButton"
+                    onclick="location.href='https://www.youtube.com/watch?v=PF5DScCr5SI'"
+                    type="button">Conference 2020
+            </button>
+        </div>
     </div>
 
     <br><br><br><br><br><br><br><br>
